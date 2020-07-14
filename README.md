@@ -20,9 +20,6 @@ A [BLSoft Simplesmente Java](https://blsoft.com.br/fontes/product-category/java/
 
 * [Datagrama](https://github.com/mlssystem/mlsClientes/blob/master/MLSClientes/diagrama.png)
 
-Se quiser rodar na sua maquina :computer: é só baixar o Java SE e o XAMPP :wink:
-
-Sei que vocês sabem que o login e senha podem ser visualizados no banco de dados  [dbmlsclientes](https://github.com/mlssystem/mlsClientes/tree/master/MLSClientes/backup) localizado no dir backup. Para ser mais preciso <- linha 112 (RS!).
 
 Não se esqueçam que JESUS voltará para buscar todos aqueles que creem! Meditem na palavra de Jesus no evangelho de [João capitulo 14](https://mlssystem.github.io/biblia.sagrada/joao/joao-14.html).
 
