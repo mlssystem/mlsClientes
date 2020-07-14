@@ -1,10 +1,6 @@
 # mlsClientes
 
-## Preciso incluir o PDV e colocar para imprimir, mas estou trabalhando em outro fonte mais completo
-
-A [BLSoft Simplesmente Java](https://blsoft.com.br/fontes/product-category/java/), além de ensinar programar na prática, também vende o código. Não estou fazendo propaganda, mas tenho gratidão por quem me ajuda, e a forma que tenho de retribuir... é mensionando os abençoados!
-
-* Esse Sistema desenvolvi assistindo as aulas no Cuso de [Java na prática](https://www.youtube.com/playlist?list=PLt2CbMyJxu8hEvGlYo2YGLnYSHmNU4hk1) no  canal do Youtube da mesma empresa mencionada
+* Esse Sistema desenvolvi assistindo as aulas no Cuso de [Java na prática](https://www.youtube.com/playlist?list=PLt2CbMyJxu8hEvGlYo2YGLnYSHmNU4hk1) 
 
 1. ![login](https://github.com/mlssystem/mlsClientes/blob/master/img-formularios/1-login.png)
 
