@@ -6,9 +6,23 @@ A [BLSoft Simplesmente Java](https://blsoft.com.br/fontes/product-category/java/
 
 * Esse Sistema desenvolvi assistindo as aulas no Cuso de [Java na prática](https://www.youtube.com/playlist?list=PLt2CbMyJxu8hEvGlYo2YGLnYSHmNU4hk1) no  canal do Youtube da mesma empresa mencionada
 
-Se quiser rodar na sua maquina é só baixar o Java SE e o XAMPP ;-)
+1. ![login](https://github.com/mlssystem/mlsClientes/blob/master/img-formularios/1-login.png)
 
-* Sei que vocês sabem que o login e senha podem ser visualizados no banco de dados  [dbmlsclientes](https://github.com/mlssystem/mlsClientes/tree/master/MLSClientes/backup) localizado no dir backup. Para ser mais preciso <- linha 112 (RS!).
+1. ![tela-principal](https://github.com/mlssystem/mlsClientes/blob/master/img-formularios/2-tela-principal.png)
+
+1. ![clientes](https://github.com/mlssystem/mlsClientes/blob/master/img-formularios/3-clientes.png)
+
+1. ![produtos](https://github.com/mlssystem/mlsClientes/blob/master/img-formularios/4-produtos.png)
+
+1. ![usuarios](https://github.com/mlssystem/mlsClientes/blob/master/img-formularios/5-usuarios.png)
+
+1. ![vendas](https://github.com/mlssystem/mlsClientes/blob/master/img-formularios/6-vendas.png)
+
+* [Datagrama](https://github.com/mlssystem/mlsClientes/blob/master/MLSClientes/diagrama.png)
+
+Se quiser rodar na sua maquina :computer: é só baixar o Java SE e o XAMPP :wink:
+
+Sei que vocês sabem que o login e senha podem ser visualizados no banco de dados  [dbmlsclientes](https://github.com/mlssystem/mlsClientes/tree/master/MLSClientes/backup) localizado no dir backup. Para ser mais preciso <- linha 112 (RS!).
 
 Não se esqueçam que JESUS voltará para buscar todos aqueles que creem! Meditem na palavra de Jesus no evangelho de [João capitulo 14](https://mlssystem.github.io/biblia.sagrada/joao/joao-14.html).
 
